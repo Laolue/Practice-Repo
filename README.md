@@ -2,4 +2,4 @@
 
 This is my practice repo
 
-I'm not sure what to put but I like 🍕.
+I'm not sure what to put but I like 🍕 and 🍝.
